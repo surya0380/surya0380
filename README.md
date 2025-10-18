@@ -1,4 +1,4 @@
-## Hi im Surya
+## Hi I'm Surya.
 - 🚀 Senior UI Engineer (React / Redux / Redux-Saga) — building scalable front-ends at Accenture; led the Extended Service Term (EST) self‑service flow used by ~18,000 users.
 - 🔧 Delivered billing-critical features (MCAE) enabling backdated user-count edits and plan switches while preserving billing accuracy.
 - ⚡ Developer productivity & integration: implemented a shared GraphQL contract to simplify backend flow, cut dev effort, and reduce QA complexity.
