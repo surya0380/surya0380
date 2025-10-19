@@ -8,6 +8,8 @@
 - 🧪 Quality, observability & rapid delivery — Jest & Cypress testing, feature-flag rollouts, RUM/FCI and Splunk instrumentation, plus quick UI fixes for immediate releases.
 - 🏆 Recognized contributor & builder — Rise & Shine and GEM awards, 20+ LeetCode problems solved, multiple React personal projects (ClimaCast, iNote, DailyToday) and open-source contributions.
 
+CV: https://drive.google.com/file/d/1Gv0_eKYjrAKHS1nHxugvP-Y7M5CBFdRb/view?usp=drivesdk
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=surya0380&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=surya0380&theme=dark&hide_border=true)<br/>
